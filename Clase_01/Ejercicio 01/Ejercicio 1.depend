@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521833976 source:z:\mecon\utn - tecnicatura\lab i\clase 01 - ejercicio 01\ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521838617 source:c:\test\mponti\lab i\clase 01 - ejercicio 01\ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
